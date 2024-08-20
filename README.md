@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am Alexandre Dniestrowski, a seasoned software engineering expert with over 25 years of experience, specializing in designing, developing, and deploying complex software applications. My extensive career encompasses AI-driven digital transformations, strategic business expansion, and the development of scalable applications that leverage cutting-edge technologies to deliver impactful solutions.
+I am a seasoned software engineering expert with over 25 years of experience, specializing in designing, developing, and deploying complex software applications. My extensive career encompasses AI-driven digital transformations, strategic business expansion, and the development of scalable applications that leverage cutting-edge technologies to deliver impactful solutions.
 
 I have successfully founded and led multiple companies, including ITD2, where I continue to offer consultancy and development services for businesses seeking to innovate and expand into new markets.
 
@@ -15,7 +15,6 @@ I have successfully founded and led multiple companies, including ITD2, where I 
 
 - **International Deployment:** Proven track record of guiding startups and large corporations through international market expansion, ensuring successful entry and sustainable growth in diverse regions.
 
-- **Knowledge Management Systems:** Proficient in developing systems that enhance organizational efficiency, enabling better data-driven decision-making and improved information accessibility.
 
 ## Technical Skills
 
