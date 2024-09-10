@@ -46,7 +46,9 @@ For more detailed information about my services, bio, and contact details, visit
 
 ## Let's Connect!
 
-I am passionate about creating innovative solutions and contributing to the global software engineering community. Whether you're looking to collaborate on a project, explore AI-driven opportunities, or simply discuss the latest trends in technology, feel free to reach me at [alexandre@itd2.net](mailto:alexandre@itd2.net).
+I am passionate about creating innovative solutions and contributing to the global software engineering community. Whether you're looking to collaborate on a project, explore AI-driven opportunities, or simply discuss the latest trends in technology, feel free to reach me at:
+[![Email](https://img.shields.io/badge/Email-alexandre@itd2.net-red?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandre@itd2.net).
+
 
 You can also connect with me on LinkedIn:
 
