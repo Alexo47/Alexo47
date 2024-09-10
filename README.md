@@ -40,12 +40,12 @@ Through ITD2, I offer tailored services in:
 
 ## ITD2 website
 
-ITD2 website [https://alexo47.github.io/github.io/](https://alexo47.github.io/github.io/) provides more detailed information on my services, my bio, and contact details.
+ITD2 website [https://itd2.net) provides more detailed information on my services, my bio, and contact details.
 
 ## Let's Connect!
 
-I am passionate about creating innovative solutions and contributing to the global software engineering community. Whether you're looking to collaborate on a project, explore AI-driven opportunities, or simply discuss the latest trends in technology, feel free to reach out!
+I am passionate about creating innovative solutions and contributing to the global software engineering community. Whether you're looking to collaborate on a project, explore AI-driven opportunities, or simply discuss the latest trends in technology, feel free to reach me at [alexandre@itd2.net](mailto:alexandre@itd2.net).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adniestrowski/)
+You can also reach me through Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adniestrowski/)
 
 
