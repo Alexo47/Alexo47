@@ -40,7 +40,7 @@ Through ITD2, I offer tailored services in:
 
 ## ITD2 website
 
-ITD2 website [https://itd2.net) provides more detailed information on my services, my bio, and contact details.
+ITD2 website [https://www.itd2.net) provides more detailed information on my services, my bio, and contact details.
 
 ## Let's Connect!
 
