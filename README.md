@@ -15,8 +15,5 @@ For more detailed information about my services, expertise, and background, plea
 
 I am always excited to connect with like-minded professionals and explore potential collaborations. Feel free to reach out:
 
-[![Email](https://img.shields.io/badge/Email-alexandre@itd2.net-red?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandre@itd2.net)
-
-You can also connect with me on LinkedIn:
-
+[![Email](https://img.shields.io/badge/Email-alexandre@itd2.net-red?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandre@itd2.net)  or through Linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adniestrowski/)
