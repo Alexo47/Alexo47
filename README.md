@@ -40,15 +40,17 @@ Through ITD2, I offer tailored services in:
 
 ## ITD2 Website
 
-The [ITD2 website](https://www.itd2.net) provides more detailed information on my services, my bio, and contact details.
+For more detailed information about my services, bio, and contact details, visit my website:
 
-<!-- Button-style link -->
-<a href="https://www.itd2.net" style="display:inline-block; padding: 8px 16px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Visit ITD2 Website</a>
+[![ITD2 Website](https://img.shields.io/badge/ITD2-Visit%20Website-brightgreen)](https://www.itd2.net)
 
 ## Let's Connect!
 
 I am passionate about creating innovative solutions and contributing to the global software engineering community. Whether you're looking to collaborate on a project, explore AI-driven opportunities, or simply discuss the latest trends in technology, feel free to reach me at [alexandre@itd2.net](mailto:alexandre@itd2.net).
 
-You can also reach me through Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adniestrowski/)
+You can also connect with me on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adniestrowski/)
+
 
 
