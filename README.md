@@ -38,9 +38,12 @@ Through ITD2, I offer tailored services in:
 - **Business Expansion:** Guiding startups and established companies through successful international market entry.
 - **Application Development:** Crafting scalable, efficient software solutions that drive business value and enhance user experience.
 
-## ITD2 website
+## ITD2 Website
 
-ITD2 website [https://www.itd2.net) provides more detailed information on my services, my bio, and contact details.
+The [ITD2 website](https://www.itd2.net) provides more detailed information on my services, my bio, and contact details.
+
+<!-- Button-style link -->
+<a href="https://www.itd2.net" style="display:inline-block; padding: 8px 16px; font-size: 16px; font-weight: bold; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Visit ITD2 Website</a>
 
 ## Let's Connect!
 
